@@ -1,7 +1,7 @@
 # Music-Genre-Classifier-using-Deep-Learning
 Classify six Musical Genres using a LSTM model
 
-![Poster](./Images/POSTER.png)
+![Poster](./Images/PROJECT.png)
 
 ## To run 
 
