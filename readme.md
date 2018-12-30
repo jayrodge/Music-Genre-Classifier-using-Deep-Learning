@@ -1,9 +1,12 @@
 # Music-Genre-Classifier-using-Deep-Learning
 Classify six Musical Genres using a LSTM model
 
-# To run 
+![Poster](./Images/POSTER.png)
+
+## To run 
 
 	python program2.py
 
+![demo](./Images/demo.png)
 
-# Only works with 30 sec audio files (Since it is trained on GTZAN Dataset)
+## This program works only with 30 sec audio files (Since it is trained on GTZAN Dataset)
