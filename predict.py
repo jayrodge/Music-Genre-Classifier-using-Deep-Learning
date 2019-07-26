@@ -1,7 +1,8 @@
-import numpy as np
+import os
 import librosa
-import os	
+import numpy as np	
 from keras.models import load_model
+
 model=load_model('70_6_30.h5')
 os.system('clear')
 os.system('figlet Welcome to BE Project')
